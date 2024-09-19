@@ -33,7 +33,8 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "app/Config/config.base.js",
-    "app/Config/config.company.js"
+    "app/Config/config.company.js",
+    "app/api/tsubasa/start/route.js"
   ],
   "exclude": [
     "node_modules"
